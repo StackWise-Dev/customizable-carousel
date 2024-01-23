@@ -162,3 +162,13 @@
   left: 50%;
   transform: translate(-50%, -50%);
 }
+@media screen and (max-width: 991px) {
+  .stack-carousel-section .stack-carousel-track {
+    grid-auto-columns: calc((100% / 2) - 9px) !important;
+  }
+}
+@media screen and (max-width: 620px) {
+  .stack-carousel-section .stack-carousel-track {
+    grid-auto-columns: 100% !important;
+  }
+}
