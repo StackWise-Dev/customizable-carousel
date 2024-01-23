@@ -9,7 +9,7 @@
 This is a simple carousel created using simple vanilla js and you can modify the code very easily. This code accepts configurations like show dots and carousel buttons, set the duration of carousel, how many slides to show.
 
 ### Configurations Object of Carousel 
-You can change these configurations accordingly and can add more of your choice. Add these configurations on `stack-carousel-track` div of the carousel in `data-carousel-config` property.
+You can change these configurations accordingly and can add more of your choice. Add these configurations on `stack-carousel-track` div in the carousel in `data-carousel-config` property.
 
 ```JSON
 {
