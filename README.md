@@ -1,10 +1,8 @@
 # Customizable Carousel Using Vanilla JS
 
-[!NOTE]
-This code is free and you can download it and use it in your projects. 
+[!NOTE] This code is free and you can download it and use it in your projects. 
 
-[!IMPORTANT]
-Please give a star for this free code and follow me for more amazing content. [@StackWiseDev](https://www.youtube.com/@stackwisedev)
+[!IMPORTANT] Please give a star for this free code and follow me for more amazing content. [@StackWiseDev](https://www.youtube.com/@stackwisedev)
 
 This is a simple carousel created using simple vanilla js and you can modify the code very easily. This code accepts configurations like show dots and carousel buttons, set the duration of carousel, how many slides to show.
 
