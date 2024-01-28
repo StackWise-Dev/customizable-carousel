@@ -124,12 +124,6 @@ function Carousel() {
     setScrollFlag(false);
     setStartX(e.pageX);
     setStartScrollLeft(carouselRef.current.scrollLeft);
-    // isDragging = true;
-    // scrollFlag = false;
-    // carousel.classList.add("dragging");
-    // startX = e.pageX;
-    // startScrollLeft = carousel.scrollLeft;
-    // startClientX = e.x;
   }
   function dragging(e) {
     if (!isDragging) return;
